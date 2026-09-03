@@ -5,4 +5,4 @@ This project is a simple landing page for a guitar lesson service, built with HT
 ## Preview
 
 The site is published on GitHub Pages at:
-https://erix319.github.io/guitar-lessons-landing-page/
+https://pafuluofu-dev.github.io/guitar-lessons-landing-page/
